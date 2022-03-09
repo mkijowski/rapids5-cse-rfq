@@ -93,15 +93,15 @@ In addition to any above system networking, to upgrade our current cluster to th
 
 #### **Additional equipment for expansion**
 
-It is the responsibility of the vendor to contact Wright State University to ensure all needed equipment to install and operate this HPC modernization is included. This may include Power Distribution Units (PDUs), additional network cables and switches, blank panels, iKVM consoles, etc.
+It is the responsibility of the vendor to contact Wright State University to ensure all needed equipment to install and operate this HPC modernization is included. This may include Power Distribution Units (PDUs), additional network cables and switches, blank panels, iKVM consoles, additional storage for existing compute nodes, etc.
 
 #### **Cluster assembly and configuration**
 
-* The HPC cluster and additional networking equipment must be assembled by the vendor on-site. Installation will include moving the components into Wright State University data-centers, connecting to data-center power and networking, system updating and driver installation, system verification and orientation, and trash removal.
+The HPC cluster and additional networking equipment must be assembled by the vendor on-site. Installation will include moving the components into Wright State University data-centers, connecting to data-center power and networking, system updating and driver installation, system verification and orientation, and trash removal.
 
 #### **Software**
 
-* Latest RedHat Enterprise Linus Operating System (perpetual license if applicable) with latest updates for all existing and new nodes.
+* Operating System  (OS) should be linux based and support old and new compute nodes. If OS requires a license we would prefer a perpetual license if applicable with latest updates for all existing and new nodes.
 * Setup and configured common file-system will allow all compute nodes access to the same files and write to both the common file-system and local scratch storage.
 * A HPC cluster management/monitoring solution compatible with all equipment is required.
 * Singularity container software
