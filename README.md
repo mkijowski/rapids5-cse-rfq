@@ -38,7 +38,7 @@ Login node should at least have:
 * (2x) Intel 28-Core Xeon Gold 6330
 * 256GB DDR4 3200MHz RAM
 * (2x) 480GB M.2 SSD
-* (2x) 10Gb RJ45 networking
+* 10Gb RJ45 networking
 * (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * (4x) empty PCIe 3.0x16 slots for GPUs
 * (3x) Redundant 1600W PSU
@@ -54,7 +54,7 @@ Each of the 2 GPU accelerator nodes should at least have:
 * (2x) Intel 28-Core Xeon Gold 6330
 * 256GB DDR4 3200MHz RAM
 * (2x) 480GB M.2 SSD
-* (2x) 10Gb RJ45 networking
+* 10Gb RJ45 networking
 * (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * (4x) empty PCIe 3.0x16 slots for GPUs
 * (3x) Redundant 1600W PSU
@@ -74,7 +74,7 @@ Storage system should at least have:
 * (24x) 2.5" sata/SAS drive bays
 * (2x) 480GB M.2 SSD
 * (24x) 4TB SSD
-* (2x) 10Gb RJ45 networking
+* 10Gb RJ45 networking
 * (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * Redundant 1300W PSU
 * IPMI/iKVM with dedicated 1Gb RJ45
