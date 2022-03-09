@@ -95,7 +95,7 @@ In addition to any above system networking, to upgrade our current cluster to th
 
 It is the responsibility of the vendor to contact Wright State University to ensure all needed equipment to install and operate this HPC modernization is included. This may include Power Distribution Units (PDUs), additional network cables and switches, blank panels, iKVM consoles, etc.
 
-#### **Cluster assembly and configuration
+#### **Cluster assembly and configuration**
 
 * The HPC cluster and additional networking equipment must be assembled by the vendor on-site. Installation will include moving the components into Wright State University data-centers, connecting to data-center power and networking, system updating and driver installation, system verification and orientation, and trash removal.
 
