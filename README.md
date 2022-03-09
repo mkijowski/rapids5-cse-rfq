@@ -24,7 +24,7 @@ Login node should at least have:
 * 256GB DDR4 3200MHz RAM
 * (2x) 480GB M.2 SSD
 * (2x) 10Gb RJ45 networking
-* (1x) PCIe 3.0x16 network card supporting 100Gb/s
+* (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InfiniBand preferred)
 * Redundant 1300W PSU
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
@@ -39,7 +39,7 @@ Login node should at least have:
 * 256GB DDR4 3200MHz RAM
 * (2x) 480GB M.2 SSD
 * (2x) 10Gb RJ45 networking
-* (1x) PCIe 3.0x16 network card supporting 100Gb/s
+* (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * (4x) empty PCIe 3.0x16 slots for GPUs
 * (3x) Redundant 1600W PSU
 * IPMI/iKVM with dedicated 1Gb RJ45
@@ -55,7 +55,7 @@ Each of the 2 GPU accelerator nodes should at least have:
 * 256GB DDR4 3200MHz RAM
 * (2x) 480GB M.2 SSD
 * (2x) 10Gb RJ45 networking
-* (1x) PCIe 3.0x16 network card supporting 100Gb/s
+* (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * (4x) empty PCIe 3.0x16 slots for GPUs
 * (3x) Redundant 1600W PSU
 * (1x) NVIDIA A100 Tensor Core GPU
@@ -75,7 +75,7 @@ Storage system should at least have:
 * (2x) 480GB M.2 SSD
 * (24x) 4TB SSD
 * (2x) 10Gb RJ45 networking
-* (1x) PCIe 3.0x16 network card supporting 100Gb/s
+* (1x) PCIe 3.0x16 network card supporting 100Gb/s (OmniPath or InifiniBand preferred)
 * Redundant 1300W PSU
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
@@ -84,7 +84,7 @@ Storage system should at least have:
 
 #### **Networking**
 
-In addition to any above system networking, to upgrade our current cluster to the new 100Gb/s network the following are needed:
+In addition to any above system networking, to upgrade our current cluster to the new 100Gb/s network (OmniPath or InifiniBand preferred) the following are needed:
 
 * (1x) 48 port 100Gb/s network switch
 * (26x) 100Gb/s network card, PCIe 2.0 x16
