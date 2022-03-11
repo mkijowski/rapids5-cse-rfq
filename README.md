@@ -29,7 +29,7 @@ Login node should at least have:
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
 * Half extension rails for rack mount
-* 3 year standard warranty
+* Includes 3 year standard warranty
 
 #### **Empty GPU accelerator node**
 
@@ -45,7 +45,7 @@ Login node should at least have:
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
 * Half extension rails for rack mount
-* 3 year standard warranty
+* Includes 3 year standard warranty
 
 #### **(2x) Single GPU accelerator node**
 
@@ -62,7 +62,7 @@ Each of the 2 GPU accelerator nodes should at least have:
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
 * Half extension rails for rack mount
-* 3 year standard warranty
+* Includes 3 year standard warranty
 
 #### **Storage system**
 
@@ -80,7 +80,7 @@ Storage system should at least have:
 * IPMI/iKVM with dedicated 1Gb RJ45
 * Relevant power and networking cables
 * Half extension rails for rack mount
-* 3 year standard warranty
+* Includes 3 year standard warranty
 
 #### **Networking**
 
@@ -89,7 +89,7 @@ In addition to any above system networking, to upgrade our current cluster to th
 * (1x) 48 port 100Gb/s network switch
 * (26x) 100Gb/s network card, PCIe 2.0 x16
 * (32x) 3 meter network cable
-* 3 year standard warranty an all network equipment
+* Includes 3 year standard warranty an all network equipment
 
 #### **Additional equipment for expansion**
 
@@ -106,14 +106,14 @@ The HPC cluster and additional networking equipment must be assembled by the ven
 * A HPC cluster management/monitoring solution compatible with all equipment is required.
 * Singularity container software
 * Slurm job scheduling software
-* It licensed software is installed the the software licenses should be provided for at least 3 years (prefer 5 years)
+* If licensed software is installed the the software licenses should be provided for at least 5 years (prefer perpetual)
 * Vendor must coordinate software list with Wright State University representative to finalize installation
 
 #### **Warranty**
 
 **Please state warranty terms clearly.**
 
-* Provide a 3 year upfront warranty with a minimum level or 8x5 next business day email, phone, and online support. Must also provide advance replacement coverage for exchange of malfunctioning parts. Also provide a quote for hardware support for the 4th and 5th year of warranty at the same level.
+* Provide a 3 year upfront warranty with a minimum level or 8x5 next business day email, phone, and online support. Must also provide advance replacement coverage for exchange of malfunctioning parts.
 * Provide the life cycle of the hardware. It is preferred that the equipment purchased from the vendor includes lifetime technical support.
 * Warranty and support must be provided by the equipment manufacturer, not a 3rd party.
 
